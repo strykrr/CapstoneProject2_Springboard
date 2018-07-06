@@ -17,6 +17,8 @@ This is a link to the Archive of Econtalk Podcasts. Web scraping of the transcri
 **Webscraping** - Webscraping is a wonderful technique to extract content from websites and create data for Topic Modeling yourself.Beautiful Soup is a Python package used for web scraping to parse HTML and XML documents.It creates a parse tree that can be used to extract data from HTML.
                   
   EconTalk hosts archives of Podcasts dating back until 2006 which aggregate close to 500 documents. Beautiful Soup enables to parse the HTML content and extract all the URL's of the podcasts.Once the URL's are extracted ,web content of each podcast can extracted by navigating to appropriate url via Beautiful Soup and further split each documennt to have more than thousand documents for Topic Modeling.
+
+**DataWrangling**- Gensim provides package to Preprocess the Text content before applying the machine Learning Algorithms.
              
 ### List other potential data sets you could use
 All the Data required for Topic Modeling is extracted from the Econtalk website
