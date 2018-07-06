@@ -8,12 +8,14 @@ Classify articles into meaningful categories irrespective of any Discipline fulf
 
 Digitization of Podcasts has lead to multitude of archive collections Online, Users would like to play the podcasts of their choice and What if there is a way that Podcasts are Organized better to thoroughly enjoy without any hassle of going through the entire list of episodes.By applying various Machine Learning techniques Podcasts can be arranged in the order of relevance based on the coverage of different Topics,thus giving us understanding of how similar and dissimilar are the podcasts.
 
-Econtalk is a famous podcast listened by people across the world, classification of these Podcasts using Topic Modeling on the transcripts creates an opportunity for the listeners to tune in with their interests. Podcasts listeners can be recommended and save lot of time in exploring , caterring to their needs and customizing the articles based on their Interests.
-
 ### Describe your data set, and how you cleaned/wrangled it
 
+Econtalk is a famous podcast listened by people across the world, classification of these Podcasts using Topic Modeling on the transcripts creates an opportunity for the listeners to tune in with their interests. Podcasts listeners can be recommended and save lot of time in exploring , caterring to their needs and customizing the articles based on their Interests.
+
+This is a link to the Archive of Econtalk Podcasts. Web scraping of the transcripts into text format provides an opportunity for Clustering of Topics. www.econlib.org/econtalk-favorite-by-date
 
 ### List other potential data sets you could use
+All the Data required for Topic Modeling is extracted from the Econtalk website
 
 ### Explain your initial findings**
 Identify similarity and dissimilarity of Podcasts from huge collection of archives in Econtalk based on the Semantic Structure of Topics covered in the Text documents.
